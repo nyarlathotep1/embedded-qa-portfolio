@@ -1,15 +1,15 @@
 # Wokwi Test Environment Screenshots
 
-Upload these three PNGs from `wokwi/` inside the evidence ZIP:
+These three screenshots were uploaded from the evidence package and document **separate Wokwi training exercises**.
 
-| File | Training exercise |
+| Screenshot | What it actually shows |
 | --- | --- |
-| `smart_gate_setup.png` | Smart Gate training environment (verify the actual image before presentation). |
-| `button_debounce_setup.png` | Separate input/debounce training exercise (verify screenshot identity). |
-| `esp32_uart_setup.png` | ESP32 UART CLI training setup (verify screenshot identity). |
+| [`smart_gate_setup.png`](smart_gate_setup.png) | Arduino-based Smart Gate controller with relay modules, controls and LEDs. |
+| [`watchdog_controller_setup.png`](watchdog_controller_setup.png) | ESP32 + DHT22 + relay module + pushbutton + LED used in the Watchdog / Sleep / NVS practice. **Not** the independent debounce demo. |
+| [`esp32_uart_setup.png`](esp32_uart_setup.png) | ESP32 / DHT22 / LED CLI automation training project in VS Code/Wokwi. |
 
-**Status:** The original screenshot binaries have not yet been uploaded to this folder.
+**Status:** All three original screenshots are present in this folder.
 
-Screenshots document *simulation setups*. They do not independently prove that the corresponding test passed or failed; use the linked UART/VCD/test logs for outcome evidence.
+Screenshots document simulation setup only. They do not independently prove pass/fail; link UART/test logs and reports for outcomes.
 
-[Portfolio home](../../README.md) · [Evidence Index](../README.md)
+[Watchdog case study](../../case-studies/watchdog-recovery.md) · [Portfolio home](../../README.md) · [Evidence Index](../README.md)

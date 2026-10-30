@@ -2,6 +2,10 @@
 
 **SUT:** separate ESP32 Wokwi training build with relay, DHT22, button, LED and NVS. Not the same firmware as the network-node case study.
 
+![Wokwi ESP32 setup with DHT22, relay module, button and LED](../evidence/wokwi/watchdog_controller_setup.png)
+
+*Simulation setup screenshot; functional outcomes are documented in the corresponding test report.*
+
 ## Test problem
 Can the firmware recover from hang or sleep safely, preserve state consistently across simulated power loss, and expose failures rather than masking them?
 
