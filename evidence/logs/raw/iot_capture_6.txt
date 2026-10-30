@@ -1,0 +1,997 @@
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=123 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=124 backoff_ms=50
+                                                [BUFFER] queued id=2 count=2/8
+                                                                              [NET] state=CONNECTING
+                                                                                                    [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=125 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=126 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=127 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=128 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=129 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=130 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=131 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=132 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=133 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=134 backoff_ms=50
+                                                [BUFFER] queued id=3 count=3/8
+                                                                              [NET] state=CONNECTING
+                                                                                                    [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=135 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=136 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=137 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=138 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=139 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=140 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=141 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=142 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=143 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=144 backoff_ms=50
+                                                [BUFFER] queued id=4 count=4/8
+                                                                              [NET] state=CONNECTING
+                                                                                                    [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=145 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=146 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=147 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=148 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=149 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=150 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=151 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=152 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=153 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=154 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=155 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=156 backoff_ms=50
+                                                [BUFFER] queued id=5 count=5/8
+                                                                              [NET] state=CONNECTING
+                                                                                                    [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=157 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=158 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=159 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=160 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=161 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=162 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=163 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=164 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=165 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=166 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=167 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=168 backoff_ms=50
+                                                [BUFFER] queued id=6 count=6/8
+                                                                              [NET] state=CONNECTING
+                                                                                                    [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=169 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=170 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=171 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=172 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=173 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=174 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=175 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=176 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=177 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=178 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=179 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=180 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=181 backoff_ms=50
+                                                [BUFFER] queued id=7 count=7/8
+                                                                              [NET] state=CONNECTING
+                                                                                                    [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=182 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=183 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=184 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=185 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=186 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=187 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=188 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=189 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=190 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=191 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=192 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=193 backoff_ms=50
+                                                [BUFFER] queued id=8 count=8/8
+                                                                              [NET] state=CONNECTING
+                                                                                                    [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=194 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=195 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=196 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=197 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=198 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=199 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=200 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=201 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=202 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=203 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=204 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=205 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=206 backoff_ms=50
+                                                [BUFFER] overflow policy=DROP_OLDEST dropped_total=0
+                                                                                                    [BUFFER] queued id=9 count=9/8
+                          [NET] state=CONNECTING
+                                                [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=207 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=208 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=209 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=210 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=211 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=212 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=213 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=214 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=215 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=216 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=217 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=218 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=219 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=220 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=221 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=222 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=223 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=224 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=225 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=226 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=227 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=228 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=229 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=230 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=231 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=232 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=233 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=234 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=235 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=236 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=237 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=238 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=239 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=240 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=241 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=242 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=243 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=244 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=245 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=246 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=247 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=248 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=249 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=250 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=251 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=252 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=253 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=254 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=255 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=256 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=257 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=258 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=259 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=260 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=261 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=262 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=263 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=264 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=265 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=266 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=267 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=268 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=269 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=270 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=271 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=272 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=273 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=274 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=275 backoff_ms=50
+                                                [BUFFER] count=9 capacity=8 dropped=0
+                                                                                     [NET] state=CONNECTING
+   [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=276 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=277 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=278 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=279 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=280 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=281 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=282 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=283 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=284 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=285 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=286 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=287 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=288 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=289 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=290 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=291 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=292 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=293 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=294 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=295 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=296 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=297 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=298 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=299 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=300 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=301 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=302 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=303 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=304 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=305 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=306 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=307 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=308 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=309 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=310 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=311 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=312 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=313 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=314 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=315 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=316 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=317 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=318 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=319 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=320 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=321 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=322 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=323 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=324 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=325 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=326 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=327 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=328 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=329 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=330 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=331 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=332 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=333 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=334 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=335 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=336 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=337 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=338 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=339 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=340 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=341 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=342 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=343 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=344 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=345 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=346 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=347 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=348 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=349 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=350 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=351 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=352 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=353 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=354 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=355 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=356 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=357 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=358 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=359 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=360 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=361 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=362 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=363 backoff_ms=50
+                                                [FAULT] network restored
+[NET] state=CONNECTING
+                      [NET] state=CONNECTED
+                                           [NET] reconnect=SUCCESS
+[BUFFER] flush_start count=9
+                            [MQTT] publish id=9 temp=24.5
+                                                         [MQTT] publish id=9 temp=24.5
+                                                                                      [MQTT] publish id=2 temp=24.5
+           [MQTT] publish id=2 temp=24.5
+                                        [MQTT] publish id=3 temp=24.5
+                                                                     [MQTT] publish id=3 temp=24.5
+                                                                                                  [MQTT] publish id=4 temp=24.5
+                       [MQTT] publish id=4 temp=24.5
+                                                    [MQTT] publish id=5 temp=24.5
+                                                                                 [MQTT] publish id=5 temp=24.5
+      [MQTT] publish id=6 temp=24.5
+                                   [MQTT] publish id=6 temp=24.5
+                                                                [MQTT] publish id=7 temp=24.5
+                                                                                             [MQTT] publish id=7 temp=24.5
+                  [MQTT] publish id=8 temp=24.5
+                                               [MQTT] publish id=8 temp=24.5
+                                                                            [MQTT] publish id=9 temp=24.5
+ [MQTT] publish id=9 temp=24.5
+                              [BUFFER] flush_end count=0

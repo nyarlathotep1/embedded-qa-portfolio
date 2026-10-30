@@ -1,0 +1,943 @@
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=187 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=188 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=189 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=190 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=191 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=192 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=193 backoff_ms=50
+                                                [BUFFER] queued id=8 count=8/8
+                                                                              [NET] state=CONNECTING
+                                                                                                    [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=194 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=195 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=196 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=197 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=198 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=199 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=200 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=201 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=202 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=203 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=204 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=205 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=206 backoff_ms=50
+                                                [BUFFER] overflow policy=DROP_OLDEST dropped_total=0
+                                                                                                    [BUFFER] queued id=9 count=9/8
+                          [NET] state=CONNECTING
+                                                [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=207 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=208 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=209 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=210 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=211 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=212 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=213 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=214 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=215 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=216 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=217 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=218 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=219 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=220 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=221 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=222 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=223 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=224 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=225 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=226 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=227 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=228 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=229 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=230 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=231 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=232 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=233 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=234 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=235 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=236 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=237 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=238 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=239 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=240 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=241 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=242 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=243 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=244 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=245 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=246 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=247 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=248 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=249 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=250 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=251 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=252 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=253 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=254 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=255 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=256 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=257 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=258 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=259 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=260 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=261 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=262 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=263 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=264 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=265 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=266 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=267 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=268 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=269 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=270 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=271 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=272 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=273 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=274 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=275 backoff_ms=50
+                                                [BUFFER] count=9 capacity=8 dropped=0
+                                                                                     [NET] state=CONNECTING
+   [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=276 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=277 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=278 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=279 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=280 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=281 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=282 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=283 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=284 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=285 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=286 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=287 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=288 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=289 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=290 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=291 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=292 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=293 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=294 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=295 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=296 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=297 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=298 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=299 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=300 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=301 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=302 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=303 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=304 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=305 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=306 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=307 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=308 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=309 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=310 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=311 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=312 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=313 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=314 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=315 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=316 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=317 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=318 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=319 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=320 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=321 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=322 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=323 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=324 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=325 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=326 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=327 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=328 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=329 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=330 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=331 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=332 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=333 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=334 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=335 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=336 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=337 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=338 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=339 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=340 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=341 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=342 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=343 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=344 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=345 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=346 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=347 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=348 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=349 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=350 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=351 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=352 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=353 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=354 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=355 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=356 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=357 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=358 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=359 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=360 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=361 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=362 backoff_ms=50
+                                                [NET] state=CONNECTING
+                                                                      [NET] reconnect=FAILED
+[NET] state=BACKOFF
+                   [NET] retry=363 backoff_ms=50
+                                                [FAULT] network restored
+[NET] state=CONNECTING
+                      [NET] state=CONNECTED
+                                           [NET] reconnect=SUCCESS
+[BUFFER] flush_start count=9
+                            [MQTT] publish id=9 temp=24.5
+                                                         [MQTT] publish id=9 temp=24.5
+                                                                                      [MQTT] publish id=2 temp=24.5
+           [MQTT] publish id=2 temp=24.5
+                                        [MQTT] publish id=3 temp=24.5
+                                                                     [MQTT] publish id=3 temp=24.5
+                                                                                                  [MQTT] publish id=4 temp=24.5
+                       [MQTT] publish id=4 temp=24.5
+                                                    [MQTT] publish id=5 temp=24.5
+                                                                                 [MQTT] publish id=5 temp=24.5
+      [MQTT] publish id=6 temp=24.5
+                                   [MQTT] publish id=6 temp=24.5
+                                                                [MQTT] publish id=7 temp=24.5
+                                                                                             [MQTT] publish id=7 temp=24.5
+                  [MQTT] publish id=8 temp=24.5
+                                               [MQTT] publish id=8 temp=24.5
+                                                                            [MQTT] publish id=9 temp=24.5
+ [MQTT] publish id=9 temp=24.5
+                              [BUFFER] flush_end count=0
+                                                        [STATS] reset
+{"net":"CONNECTED","broker":true,"buffer":0,"capacity":8,"sent":0,"dropped":0,"duplicates":0,"reconnect_attempts":0,"heap":349884}
+                          [STRESS] start count=100 heap=349884
+                                                              [MQTT] publish id=10 temp=24.5
+                                                                                            [MQTT] publish id=11 temp=24.5
+                  [MQTT] publish id=12 temp=24.5
+                                                [MQTT] publish id=13 temp=24.5
+                                                                              [MQTT] publish id=14 temp=24.5
+    [MQTT] publish id=15 temp=24.5
+                                  [MQTT] publish id=16 temp=24.5
+                                                                [MQTT] publish id=17 temp=24.5
+                                                                                              [MQTT] publish id=18 temp=24.5
+                    [MQTT] publish id=19 temp=24.5
+                                                  [MQTT] publish id=20 temp=24.5
+                                                                                [MQTT] publish id=21 temp=24.5
+      [MQTT] publish id=22 temp=24.5
+                                    [MQTT] publish id=23 temp=24.5
+                                                                  [MQTT] publish id=24 temp=24.5
+                                                                                                [MQTT] publish id=25 temp=24.5
+                      [MQTT] publish id=26 temp=24.5
+                                                    [MQTT] publish id=27 temp=24.5
+                                                                                  [MQTT] publish id=28 temp=24.5
+        [MQTT] publish id=29 temp=24.5
+                                      [MQTT] publish id=30 temp=24.5
+                                                                    [MQTT] publish id=31 temp=24.5
+                                                                                                  [MQTT] publish id=32 temp=24.5
+                        [MQTT] publish id=33 temp=24.5
+                                                      [MQTT] publish id=34 temp=24.5
+                                                                                    [MQTT] publish id=35 temp=24.5
+          [MQTT] publish id=36 temp=24.5
+                                        [MQTT] publish id=37 temp=24.5
+                                                                      [MQTT] publish id=38 temp=24.5
+                                                                                                    [MQTT] publish id=39 temp=24.5
+                          [MQTT] publish id=40 temp=24.5
+                                                        [MQTT] publish id=41 temp=24.5
+                                                                                      [MQTT] publish id=42 temp=24.5
+            [MQTT] publish id=43 temp=24.5
+                                          [MQTT] publish id=44 temp=24.5
+                                                                        [MQTT] publish id=45 temp=24.5
+                                                                                                      [MQTT] publish id=46 temp=24.5
+                            [MQTT] publish id=47 temp=24.5
+                                                          [MQTT] publish id=48 temp=24.5
+                                                                                        [MQTT] publish id=49 temp=24.5
+              [MQTT] publish id=50 temp=24.5
+                                            [MQTT] publish id=51 temp=24.5
+                                                                          [MQTT] publish id=52 temp=24.5
+                                                                                                       [MQTT] publish id=53 temp=24.5
+                             [MQTT] publish id=54 temp=24.5
+                                                           [MQTT] publish id=55 temp=24.5
+                                                                                         [MQTT] publish id=56 temp=24.5
+               [MQTT] publish id=57 temp=24.5
+                                             [MQTT] publish id=58 temp=24.5
+                                                                           [MQTT] publish id=59 temp=24.5
+ [MQTT] publish id=60 temp=24.5
+                               [MQTT] publish id=61 temp=24.5
+                                                             [MQTT] publish id=62 temp=24.5
+                                                                                           [MQTT] publish id=63 temp=24.5
+                 [MQTT] publish id=64 temp=24.5
+                                               [MQTT] publish id=65 temp=24.5
+                                                                             [MQTT] publish id=66 temp=24.5
+   [MQTT] publish id=67 temp=24.5
+                                 [MQTT] publish id=68 temp=24.5
+                                                               [MQTT] publish id=69 temp=24.5
+                                                                                             [MQTT] publish id=70 temp=24.5
+                   [MQTT] publish id=71 temp=24.5
+                                                 [MQTT] publish id=72 temp=24.5
+                                                                               [MQTT] publish id=73 temp=24.5
+     [MQTT] publish id=74 temp=24.5
+                                   [MQTT] publish id=75 temp=24.5
+                                                                 [MQTT] publish id=76 temp=24.5
+                                                                                               [MQTT] publish id=77 temp=24.5
+                     [MQTT] publish id=78 temp=24.5
+                                                   [MQTT] publish id=79 temp=24.5
+                                                                                 [MQTT] publish id=80 temp=24.5
+       [MQTT] publish id=81 temp=24.5
+                                     [MQTT] publish id=82 temp=24.5
+                                                                   [MQTT] publish id=83 temp=24.5
+                                                                                                 [MQTT] publish id=84 temp=24.5
+                       [MQTT] publish id=85 temp=24.5
+                                                     [MQTT] publish id=86 temp=24.5
+                                                                                   [MQTT] publish id=87 temp=24.5
+         [MQTT] publish id=88 temp=24.5
+                                       [MQTT] publish id=89 temp=24.5
+                                                                     [MQTT] publish id=90 temp=24.5
+                                                                                                   [MQTT] publish id=91 temp=24.5
+                         [MQTT] publish id=92 temp=24.5
+                                                       [MQTT] publish id=93 temp=24.5
+                                                                                     [MQTT] publish id=94 temp=24.5
+           [MQTT] publish id=95 temp=24.5
+                                         [MQTT] publish id=96 temp=24.5
+                                                                       [MQTT] publish id=97 temp=24.5
+                                                                                                     [MQTT] publish id=98 temp=24.5
+                           [MQTT] publish id=99 temp=24.5
+                                                         [MQTT] publish id=100 temp=24.5
+                                                                                        [MQTT] publish id=101 temp=24.5
+               [MQTT] publish id=102 temp=24.5
+                                              [MQTT] publish id=103 temp=24.5
+                                                                             [MQTT] publish id=104 temp=24.5
+    [MQTT] publish id=105 temp=24.5
+                                   [MQTT] publish id=106 temp=24.5
+                                                                  [MQTT] publish id=107 temp=24.5
+                                                                                                 [MQTT] publish id=108 temp=24.5
+                        [MQTT] publish id=109 temp=24.5
+                                                       [STRESS] end heap=341884
+                                                                               {"net":"CONNECTED","broker":true,"buffer":0,"capacity":8,"sent":100,"dropped":0,"duplicates":0,"reconnect_attempts":0,"heap":341884}
+   [STRESS] start count=100 heap=341884
+                                       [MQTT] publish id=110 temp=24.5
+                                                                      [MQTT] publish id=111 temp=24.5
+                                                                                                     [MQTT] publish id=112 temp=24.5
+                          [MQTT] publish id=113 temp=24.5
+                                                         [MQTT] publish id=114 temp=24.5
+                                                                                        [MQTT] publish id=115 temp=24.5
+             [MQTT] publish id=116 temp=24.5
+                                            [MQTT] publish id=117 temp=24.5
+                                                                           [MQTT] publish id=118 temp=24.5
+                                                                                                         [MQTT] publish id=119 temp=24.5
+                              [MQTT] publish id=120 temp=24.5
+                                                             [MQTT] publish id=121 temp=24.5
+                                                                                            [MQTT] publish id=122 temp=24.5
+                 [MQTT] publish id=123 temp=24.5
+                                                [MQTT] publish id=124 temp=24.5
+                                                                               [MQTT] publish id=125 temp=24.5
+    [MQTT] publish id=126 temp=24.5
+                                   [MQTT] publish id=127 temp=24.5
+                                                                  [MQTT] publish id=128 temp=24.5
+                                                                                                 [MQTT] publish id=129 temp=24.5
+                      [MQTT] publish id=130 temp=24.5
+                                                     [MQTT] publish id=131 temp=24.5
+                                                                                    [MQTT] publish id=132 temp=24.5
+         [MQTT] publish id=133 temp=24.5
+                                        [MQTT] publish id=134 temp=24.5
+                                                                       [MQTT] publish id=135 temp=24.5
+                                                                                                      [MQTT] publish id=136 temp=24.5
+                           [MQTT] publish id=137 temp=24.5
+                                                          [MQTT] publish id=138 temp=24.5
+                                                                                         [MQTT] publish id=139 temp=24.5
+              [MQTT] publish id=140 temp=24.5
+                                             [MQTT] publish id=141 temp=24.5
+                                                                            [MQTT] publish id=142 temp=24.5
+ [MQTT] publish id=143 temp=24.5
+                                [MQTT] publish id=144 temp=24.5
+                                                               [MQTT] publish id=145 temp=24.5
+                                                                                              [MQTT] publish id=146 temp=24.5
+                   [MQTT] publish id=147 temp=24.5
+                                                  [MQTT] publish id=148 temp=24.5
+                                                                                 [MQTT] publish id=149 temp=24.5
+      [MQTT] publish id=150 temp=24.5
+                                     [MQTT] publish id=151 temp=24.5
+                                                                    [MQTT] publish id=152 temp=24.5
+                                                                                                   [MQTT] publish id=153 temp=24.5
+                        [MQTT] publish id=154 temp=24.5
+                                                       [MQTT] publish id=155 temp=24.5
+                                                                                      [MQTT] publish id=156 temp=24.5
+           [MQTT] publish id=157 temp=24.5
+                                          [MQTT] publish id=158 temp=24.5
+                                                                         [MQTT] publish id=159 temp=24.5
+                                                                                                        [MQTT] publish id=160 temp=24.5
+                             [MQTT] publish id=161 temp=24.5
+                                                            [MQTT] publish id=162 temp=24.5
+                                                                                           [MQTT] publish id=163 temp=24.5
+                [MQTT] publish id=164 temp=24.5
+                                               [MQTT] publish id=165 temp=24.5
+                                                                              [MQTT] publish id=166 temp=24.5
+   [MQTT] publish id=167 temp=24.5
+                                  [MQTT] publish id=168 temp=24.5
+                                                                 [MQTT] publish id=169 temp=24.5
+                                                                                                [MQTT] publish id=170 temp=24.5
+                     [MQTT] publish id=171 temp=24.5
+                                                    [MQTT] publish id=172 temp=24.5
+                                                                                   [MQTT] publish id=173 temp=24.5
+        [MQTT] publish id=174 temp=24.5
+                                       [MQTT] publish id=175 temp=24.5
+                                                                      [MQTT] publish id=176 temp=24.5
+                                                                                                     [MQTT] publish id=177 temp=24.5
+                          [MQTT] publish id=178 temp=24.5
+                                                         [MQTT] publish id=179 temp=24.5
+                                                                                        [MQTT] publish id=180 temp=24.5
+             [MQTT] publish id=181 temp=24.5
+                                            [MQTT] publish id=182 temp=24.5
+                                                                           [MQTT] publish id=183 temp=24.5
+                                                                                                         [MQTT] publish id=184 temp=24.5
+                              [MQTT] publish id=185 temp=24.5
+                                                             [MQTT] publish id=186 temp=24.5
+                                                                                            [MQTT] publish id=187 temp=24.5
+                 [MQTT] publish id=188 temp=24.5
+                                                [MQTT] publish id=189 temp=24.5
+                                                                               [MQTT] publish id=190 temp=24.5
+    [MQTT] publish id=191 temp=24.5
+                                   [MQTT] publish id=192 temp=24.5
+                                                                  [MQTT] publish id=193 temp=24.5
+                                                                                                 [MQTT] publish id=194 temp=24.5
+                      [MQTT] publish id=195 temp=24.5
+                                                     [MQTT] publish id=196 temp=24.5
+                                                                                    [MQTT] publish id=197 temp=24.5
+         [MQTT] publish id=198 temp=24.5
+                                        [MQTT] publish id=199 temp=24.5
+                                                                       [MQTT] publish id=200 temp=24.5
+                                                                                                      [MQTT] publish id=201 temp=24.5
+                           [MQTT] publish id=202 temp=24.5
+                                                          [MQTT] publish id=203 temp=24.5
+                                                                                         [MQTT] publish id=204 temp=24.5
+              [MQTT] publish id=205 temp=24.5
+                                             [MQTT] publish id=206 temp=24.5
+                                                                            [MQTT] publish id=207 temp=24.5
+ [MQTT] publish id=208 temp=24.5
+                                [MQTT] publish id=209 temp=24.5
+                                                               [STRESS] end heap=333884
+                                                                                       {"net":"CONNECTED","broker":true,"buffer":0,"capacity":8,"sent":200,"dropped":0,"duplicates":0,"reconnect_attempts":0,"heap":333884}
