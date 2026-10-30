@@ -28,3 +28,7 @@ This page collects **traceable evidence** across separate educational systems. R
 - Physical ESP32 test evidence separate from simulated runs.
 
 [Portfolio home](../README.md)
+
+## New curated evidence package
+
+A verified evidence ZIP was assembled from the supplied course attachments (3 annotated/decoded PulseView views, 3 Wokwi system screenshots, supporting raw PulseView and nine UART text clips). It remains an **attachment in the ChatGPT conversation**, not a GitHub-hosted binary asset. Upload the ZIP contents into the appropriate GitHub folders before labeling its PNGs as repository evidence. See [I²C protocol-analysis notes](../case-studies/i2c-pulseview.md) and the already hosted [curated UART excerpts](logs/curated-iot-uart.md).
